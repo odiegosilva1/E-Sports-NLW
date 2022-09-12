@@ -1,6 +1,6 @@
-# E-Sports-NLW
+# E-Sports-SPA
 
-- SPA
+
 
 A platform made using **Node.JS**, **React** and **React Native**.
 
