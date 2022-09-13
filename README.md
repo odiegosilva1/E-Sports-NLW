@@ -1,7 +1,10 @@
 # E-Sports-SPA
 
-
-
 ## A platform made using **Node.JS**, **React** and **React Native**.
 
-Create a Front End - npm create vite@latest
+https://vitejs.dev/
+
+  [vitejs.dev](https://vitejs.dev/)
+
+* Create a Front End - npm create vite@latest
+* Installing the dependencies - npm install
