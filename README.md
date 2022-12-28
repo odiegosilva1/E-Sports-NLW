@@ -2,9 +2,7 @@
 
 A project made during the Next Level Week @Rocktseat.
 
-![previw](./.github/scr-01.png)
-
-> Explorer Trail
+![previw](./assets/scr-01.png)
 
 ##  technologies
 
